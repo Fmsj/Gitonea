@@ -6,3 +6,4 @@ git diff para ver los cambios en el documento
 git ls para ver los archivos que hay en la carpeta
 git add para agregar algun o todos los archivos ya sea especificando el archivo o poniendo "." para agregar todos.
 git log hace que se vean todos los commits
+alchile no entiendo nada de git
