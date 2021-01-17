@@ -11,4 +11,6 @@ git reset head (Nombre del archivo), revierte si has agregado el archivo, hace q
 puto el que lo lea
 git log --oneline te ayuda a que aparesca como lineas normales el codigo de los commit y asi poder hacer un reset
 git reset (codigo del commit anterior al que desea eliminar) elimina el commit y el agregar para dejar el archivo sucio para posteriormente hacer el checkout
+git reset --hard (codigo anterior al commit que se desea eliminar) elimina el commit y el stage y todo, vuelve a la normalidad al anterior commit
+git reset --soft (codigo anterior al que desea eliminar) elimina el commit y solo eso, lo demás se queda en el stage o agregado y tendras que reset head y el checkout
  
