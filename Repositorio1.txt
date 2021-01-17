@@ -15,3 +15,4 @@ git reset --hard (codigo anterior al commit que se desea eliminar) elimina el co
 git reset --soft (codigo anterior al que desea eliminar) elimina el commit y solo eso, lo demás se queda en el stage o agregado y tendras que reset head y el checkout
  Las ramas es un conflicto necesario
 De nuevo escribiendo
+Marge erroneo 
