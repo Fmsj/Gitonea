@@ -16,3 +16,4 @@ git reset --soft (codigo anterior al que desea eliminar) elimina el commit y sol
  Las ramas es un conflicto necesario
 De nuevo escribiendo
 Marge erroneo 
+$ git log --oneline --decorate --all --graph <--- Hace más grafico todo
