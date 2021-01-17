@@ -1,2 +1,6 @@
 hacer el git init para empezar sseguimiento de esta carpeta o archivo
 Hacer un git add
+git status para ver que ha pasado
+git commit para limpiar las modificaciones 
+git diff para ver los cambios en el documento
+git ls para ver los archivos que hay en la carpeta
