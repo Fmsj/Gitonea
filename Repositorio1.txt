@@ -1,0 +1,2 @@
+hacer el git init para empezar sseguimiento de esta carpeta o archivo
+Hacer un git add
