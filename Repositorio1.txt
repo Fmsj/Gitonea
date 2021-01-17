@@ -8,3 +8,7 @@ git add para agregar algun o todos los archivos ya sea especificando el archivo 
 git log hace que se vean todos los commits
 git checkout --(Nombre del archivo), revierte o quita la modificacion que se hizo, simpre y cuando no hayas dado en agregar
 git reset head (Nombre del archivo), revierte si has agregado el archivo, hace que no lo hayas agregado para hacer el checkout para eliminar la modificacion, no funciona si ya hiciste un commit
+puto el que lo lea
+git log --oneline te ayuda a que aparesca como lineas normales el codigo de los commit y asi poder hacer un reset
+git reset (codigo del commit anterior al que desea eliminar) elimina el commit y el agregar para dejar el archivo sucio para posteriormente hacer el checkout
+ 
